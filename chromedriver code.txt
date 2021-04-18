@@ -1,0 +1,2 @@
+chromePath="D:\Visual studio\python\JARVIS\chromedriver.exe"
+driver=webdriver.Chrome(executable_path=chromePath)
